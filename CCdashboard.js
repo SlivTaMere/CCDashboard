@@ -174,5 +174,7 @@
             })
         })
     }
+	
+	window.setInterval(function(){r()}, 60000);
 }();
 
